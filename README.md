@@ -9,4 +9,6 @@ It currently sits at around 60ish, with a rating of 2153, so it is a good algori
 
 Feel free to connect on Linkedin: https://www.linkedin.com/in/nick-pestov/
 
+I've also attached a screenshot showcasing some wins, including against a 2918 rated algorithm!
+
 
