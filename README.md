@@ -7,8 +7,8 @@ This algorithm at its peak had a rating of 2486 and was rated 22nd in the world 
 
 It currently sits at around 60ish, with a rating of 2153, so it is a good algorithm, but as people modify strategies, it may become outdated.
 
-Feel free to connect on Linkedin: https://www.linkedin.com/in/nick-pestov/
+Please leave a star and Feel free to connect on Linkedin: https://www.linkedin.com/in/nick-pestov/
 
-I've also attached a screenshot showcasing some wins, including against a 2918 rated algorithm!
+I've also attached a screenshot showcasing some wins, including against a 2918-rated algorithm!
 
 
