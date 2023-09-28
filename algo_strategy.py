@@ -29,6 +29,7 @@ class AlgoStrategy(gamelib.AlgoCore):
     extra_walls = [[13, 9], [4, 10],[14, 9], [15, 10], [17, 11], [18, 11], [19, 10], [20, 10], [20, 11], [1, 13],[5, 10],[26, 12], [24, 11], [23, 10], [22, 9]]
     extra_turrets = [[20, 10], [1, 12]]
     support_locations = [[7, 8], [7, 7], [7, 6], [7, 9], [7, 10], [9, 9], [9, 8], [9, 7]]
+    # please don't forget to leave a star on the repository and hit follow! :)
 
     def __init__(self):
         super().__init__()
