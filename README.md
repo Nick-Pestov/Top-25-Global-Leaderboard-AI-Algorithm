@@ -11,7 +11,7 @@ Please leave a star and Feel free to connect on Linkedin: https://www.linkedin.c
 
 I've also attached a screenshot showcasing some wins, including against a 2918-rated algorithm!
 
-![image](Screenshot 2023-09-26 193447.png)
+![image](Victory_Against_World_No.2.png)
 
 Shout-out to https://github.com/cristian-5 for helping! 
 
